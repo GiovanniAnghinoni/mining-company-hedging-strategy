@@ -15,5 +15,7 @@ Obtainment of the Raspberry Pi values | Python
 Smart contract test in Ganache | Python
 ## References
 Antonopoulos, A. M., Wood, G. (2019). Mastering Ethereum. O’Reilly.
+
 Monk, S. (2023). Raspberry Pi Cookbook. O’Reilly.
+
 Spanner, G. (2017). Franzis Raspberry Pi Maker Kit Sensoren Handbuch. Franzis.
