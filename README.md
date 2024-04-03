@@ -13,6 +13,8 @@ Application | Software
 Smart contract creation and deployment | Solidity
 Obtainment of the Raspberry Pi values | Python
 Smart contract test in Ganache | Python
+## Credits
+* Giovanni Anghinoni <anghinonigiova@gmail.com>
 ## References
 Antonopoulos, A. M., Wood, G. (2019). Mastering Ethereum. O’Reilly.
 
